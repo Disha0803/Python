@@ -1,0 +1,10 @@
+sname=input("Enter student name:")
+sage=int(input("Enter student age:"))
+saddr=input("Enter student address:")
+sroll=int(input("Enter student roll no:"))
+
+print("Student Information:")
+print("Student name:",sname)
+print("Student name:",sage)
+print("Student name:",saddr)
+print("Student name:",sroll)

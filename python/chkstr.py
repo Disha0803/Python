@@ -1,0 +1,13 @@
+print("surendra"+"panda")
+#print("surendra"-"panda")
+print("surendra"+'panda'+"""hello""")
+print("surendra"+'panda'+'''hello
+hyy
+good''')
+print("surendra"+'panda'+"""hello
+      hyy
+      good""")
+print("disha"*3)
+print("disha"*(3+9))
+print("disha"*int(50/10))
+print("disha"*int(1.6))

@@ -1,0 +1,10 @@
+import pyttsx3
+obj=pyttsx3.init()
+voices = obj.getProperty("voices")
+volume=obj.getProperty("volume")
+# print(volume)
+obj.setProperty("rate", 150)
+obj.setProperty("voice", voices[1].id)
+obj.setProperty("volume",1)
+obj.say("Hello Mama")
+obj.runAndWait()

@@ -1,0 +1,10 @@
+def studentList():
+    print('-'*30)
+    print('STUDENT LIST')
+    print('-'*30)
+    print('Adi')
+    print('Sibun')
+    print('Sweety')
+    print('Suraj')
+    print('Veenit')
+    print('-'*30)
